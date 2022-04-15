@@ -1,0 +1,294 @@
+{
+  "0": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q1.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q1.mp3"
+  },
+  "1": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q2.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q2.mp3"
+  },
+  "2": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q3.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q3.mp3"
+  },
+  "3": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q4.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q4.mp3"
+  },
+  "4": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 5. Q5.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q5.mp3"
+  },
+  "5": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q6.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q6.mp3"
+  },
+  "6": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q7.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q7.mp3"
+  },
+  "7": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q8.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q8.mp3"
+  },
+  "8": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q9.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q9.mp3"
+  },
+  "9": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q10.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q10.mp3"
+  },
+  "10": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q11.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q11.mp3"
+  },
+  "11": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q12.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q12.mp3"
+  },
+  "12": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q13.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q13.mp3"
+  },
+  "13": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q14.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q14.mp3"
+  },
+  "14": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q15.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q15.mp3"
+  },
+  "15": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q16.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q16.mp3"
+  },
+  "16": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q17.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q17.mp3"
+  },
+  "17": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q18.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q18.mp3"
+  },
+  "18": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q19.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q19.mp3"
+  },
+  "19": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q20.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q20.mp3"
+  },
+  "20": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q21.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q21.mp3"
+  },
+  "21": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q22.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q22.mp3"
+  },
+  "22": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q23.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q23.mp3"
+  },
+  "23": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q24.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q24.mp3"
+  },
+  "24": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q25.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q25.mp3"
+  },
+  "25": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q26.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q26.mp3"
+  },
+  "26": {
+    "nuria": "./assets/audio/nuria/THEME 1/theme 1. Q27.aac",
+    "felix": "./assets/audio/felix/THEME 1/theme 1. Q27.mp3"
+  },
+  "27": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q1.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q1.mp3"
+  },
+  "28": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q2.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q2.mp3"
+  },
+  "29": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q3.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q3.mp3"
+  },
+  "30": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q4.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q4.mp3"
+  },
+  "31": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q5.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q5.mp3"
+  },
+  "32": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q6.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q6.mp3"
+  },
+  "33": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q7.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q7.mp3"
+  },
+  "34": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q8.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q8.mp3"
+  },
+  "35": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q9.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q9.mp3"
+  },
+  "36": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q10.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q10.mp3"
+  },
+  "37": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q11.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q11.mp3"
+  },
+  "38": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q12.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q12.mp3"
+  },
+  "39": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q13.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q13.mp3"
+  },
+  "40": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q14.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q14.mp3"
+  },
+  "41": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q15.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q15.mp3"
+  },
+  "42": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q16.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q16.mp3"
+  },
+  "43": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q17.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q17.mp3"
+  },
+  "44": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q18.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q18.mp3"
+  },
+  "45": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q19.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q19.mp3"
+  },
+  "46": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q20.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q20.mp3"
+  },
+  "47": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q21.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q21.mp3"
+  },
+  "48": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q22.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q22.mp3"
+  },
+  "49": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q23.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q23.mp3"
+  },
+  "50": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q24.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q24.mp3"
+  },
+  "51": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q25.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q25.mp3"
+  },
+  "52": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q26.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q26.mp3"
+  },
+  "53": {
+    "nuria": "./assets/audio/nuria/THEME 2/theme 2. Q27.aac",
+    "felix": "./assets/audio/felix/THEME 2/theme 2. Q27.mp3"
+  },
+  "54": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q1.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q1.mp3"
+  },
+  "55": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q2.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q2.mp3"
+  },
+  "56": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q3.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q3.mp3"
+  },
+  "57": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q4.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q4.mp3"
+  },
+  "58": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q5.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q5.mp3"
+  },
+  "59": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q6.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q6.mp3"
+  },
+  "60": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q7.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q7.mp3"
+  },
+  "61": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q8.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q8.mp3"
+  },
+  "62": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q9.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q9.mp3"
+  },
+  "63": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q10.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q10.mp3"
+  },
+  "64": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q11.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q11.mp3"
+  },
+  "65": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q12.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q12.mp3"
+  },
+  "66": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q13.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q13.mp3"
+  },
+  "67": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q14.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q14.mp3"
+  },
+  "68": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q15.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q15.mp3"
+  },
+  "69": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q16.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q16.mp3"
+  },
+  "70": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q17.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q17.mp3"
+  },
+  "71": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q18.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q18.mp3"
+  },
+  "72": {
+    "nuria": "./assets/audio/nuria/THEME 3/theme 3. Q19.aac",
+    "felix": "./assets/audio/felix/THEME 3/theme 3. Q19.mp3"
+  }
+}
