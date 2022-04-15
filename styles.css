@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: "Anek Bangla", sans-serif;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.title-container,
+.main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.title {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.subtitle {
+  margin: 4px;
+}
+.shuffle {
+  margin-top: 10px;
+  background-color: white;
+  width: 60px;
+  border-radius: 20px;
+}
+img {
+  transition: all 0.15s;
+}
+img:hover {
+  opacity: 0.7;
+}
+.play {
+  background-color: white;
+  width: 60px;
+  border-radius: 20px;
+}
+.play-button-container {
+  width: 170px;
+  display: flex;
+  justify-content: space-between;
+}
+.show {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.play-button-container > div > p {
+  margin-bottom: 3px;
+}
+.hide {
+  display: none;
+}
