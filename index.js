@@ -19,6 +19,7 @@ let aAudio;
 const shuffle = $(".shuffle");
 
 let myTimeout;
+let fShuffle = true;
 
 $(playQuestion).on("click", function () {
   if (qPaused) {
@@ -71,20 +72,31 @@ $(playAnswer).on("click", function () {
   }
 });
 $(shuffle).on("click", () => {
-  if (!aPaused) {
-    aAudio.pause();
-    $(playAnswer).attr("src", "assets/icons8-play-100.png");
-    aPaused = true;
-  } else if (!qPaused) {
-    qAudio.pause();
-    $(playQuestion).attr("src", "assets/icons8-play-100.png");
-    qPaused = true;
+  if (!fShuffle) {
+    if (!aPaused) {
+      aAudio.pause();
+      $(playAnswer).attr("src", "assets/icons8-play-100.png");
+      aPaused = true;
+    } else if (!qPaused) {
+      qAudio.pause();
+      $(playQuestion).attr("src", "assets/icons8-play-100.png");
+      qPaused = true;
+    }
+    clearTimeout(myTimeout);
+    $(playQuestion).addClass("spin");
+    $(playAnswer).addClass("spin");
+    setTimeout(() => {
+      $(playQuestion).removeClass("spin");
+      $(playAnswer).removeClass("spin");
+    }, 150);
+  } else {
+    $(".hide").each(function () {
+      $(this).removeClass("hide");
+    });
   }
-  clearTimeout(myTimeout);
   changeQuestion();
-  $(".hide").each(function () {
-    $(this).removeClass("hide");
-  });
+
+  fShuffle = false;
 });
 const playAudio = (src) => {
   sound = new Audio();
